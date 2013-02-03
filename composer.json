@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "sonata-project/jquery-bundle": "dev-master",
+        "sonata-project/jquery-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": { "Sonata\\MarkItUpBundle": "" }
