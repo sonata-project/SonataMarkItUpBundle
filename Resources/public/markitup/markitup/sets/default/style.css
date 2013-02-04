@@ -2,33 +2,33 @@
 // markItUp!
 // By Jay Salvat - http://markitup.jaysalvat.com/
 // ------------------------------------------------------------------*/
-.markItUp .markItUpButton1 a {
+.markItUp.default .markItUpButton1 a {
 	background-image:url(images/bold.png);
 }
-.markItUp .markItUpButton2 a {
+.markItUp.default .markItUpButton2 a {
 	background-image:url(images/italic.png);
 }
-.markItUp .markItUpButton3 a {
+.markItUp.default .markItUpButton3 a {
 	background-image:url(images/stroke.png);
 }
 
-.markItUp .markItUpButton4 a {
-	background-image:url(images/list-bullet.png); 
+.markItUp.default .markItUpButton4 a {
+	background-image:url(images/list-bullet.png);
 }
-.markItUp .markItUpButton5 a {
+.markItUp.default .markItUpButton5 a {
 	background-image:url(images/list-numeric.png);
 }
 
-.markItUp .markItUpButton6 a {
-	background-image:url(images/picture.png); 
+.markItUp.default .markItUpButton6 a {
+	background-image:url(images/picture.png);
 }
-.markItUp .markItUpButton7 a {
+.markItUp.default .markItUpButton7 a {
 	background-image:url(images/link.png);
 }
 
-.markItUp .markItUpButton8 a {
+.markItUp.default .markItUpButton8 a {
 	background-image:url(images/clean.png);
 }
-.markItUp .preview a {
+.markItUp.default .preview a {
 	background-image:url(images/preview.png);
 }
