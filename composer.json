@@ -21,11 +21,16 @@
         }
     ],
     "require": {
-        "sonata-project/jquery-bundle": "dev-master"
+        "sonata-project/jquery-bundle": "1.*"
     },
     "autoload": {
         "psr-0": { "Sonata\\MarkItUpBundle": "" }
     },
     "target-dir": "Sonata/MarkItUpBundle",
-    "minimum-stability": "dev"
+    "extra": {
+        "branch-alias": {
+            "dev-2.0": "2.0.x-dev",
+            "dev-master": "2.1.x-dev"
+        }
+    }
 }
