@@ -1,5 +1,5 @@
 MarkItUp! Bundle Documentation
-==========================
+==============================
 
 Reference Guide
 ---------------
